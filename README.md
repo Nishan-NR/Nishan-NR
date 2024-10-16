@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small scale projects
 - 📫 How to reach me at nishannb369@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am intrested to learn new skills 
 
 <!---
 Nishan-NR/Nishan-NR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
